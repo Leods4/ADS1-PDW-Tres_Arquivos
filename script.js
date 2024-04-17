@@ -1,1 +1,1 @@
-alert('Olá, mundo! Este é um exemplo de script em JavaScript.');
+alert('O seu pc acaba de ser hackeado');
